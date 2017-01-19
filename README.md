@@ -13,8 +13,9 @@
 - [furni-ios](https://github.com/twitterdev/furni-ios) Furni for iOS is a furniture store demo app presented at the Twitter Flight conference on October 21st, 2015, showing the power of the Fabric platform
 - [Messenger](https://github.com/relatedcode/Messenger) This is a native iOS Messenger app, making realtime chat conversations and audio calls with full offline support.
 - [Signal-iOS](https://github.com/WhisperSystems/Signal-iOS) A private messenger for iOS https://whispersystems.org/
-- [Vesper](https://github.com/brentsimmons/Vesper)
+- [Vesper](https://github.com/brentsimmons/Vesper) Vesper is a note-taking app for iOS by Q Branch.
 - [daylight-ios](https://github.com/bakkenbaeck/daylight-ios) A beautiful app that will let you know how much sun you have today. http://daylight.today/
+- [Dash](https://github.com/Kapeli/Dash-iOS) Dash gives your iPad and iPhone instant offline access to 150+ API documentation sets https://kapeli.com/dash_ios
 
 # Electron
 
