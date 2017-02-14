@@ -1,5 +1,9 @@
 # fantastic-open-source-softwares
 
+# Post
+
+- [Open Source Guides](https://opensource.guide/)
+
 # iOS
 
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) 📱 Collaborative List of Open-Source iOS Apps
