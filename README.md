@@ -28,3 +28,7 @@
 # Node
 
 - [parse-server](https://github.com/ParsePlatform/parse-server) Parse-compatible API server module for Node/Express
+
+# macOS
+
+- [GifCapture](https://github.com/onmyway133/GifCapture) 🏇 Gif capture app for macOS
