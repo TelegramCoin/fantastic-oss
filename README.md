@@ -23,6 +23,7 @@
 
 # Electron
 
+- Showcase https://electron.atom.io/userland/starred_apps
 - [N1](https://github.com/nylas/N1) 💌 An extensible desktop mail app built on the modern web. https://nylas.com/
 
 # Node
