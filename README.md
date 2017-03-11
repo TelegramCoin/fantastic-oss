@@ -20,6 +20,7 @@
 - [Vesper](https://github.com/brentsimmons/Vesper) Vesper is a note-taking app for iOS by Q Branch.
 - [daylight-ios](https://github.com/bakkenbaeck/daylight-ios) A beautiful app that will let you know how much sun you have today. http://daylight.today/
 - [Dash](https://github.com/Kapeli/Dash-iOS) Dash gives your iPad and iPhone instant offline access to 150+ API documentation sets https://kapeli.com/dash_ios
+- [Firefox](https://github.com/mozilla-mobile/firefox-ios)
 
 # Electron
 
