@@ -33,4 +33,7 @@
 
 # macOS
 
+- [FinderGo](https://github.com/onmyway133/FinderGo) 🐢 Open terminal quickly from Finder
 - [GifCapture](https://github.com/onmyway133/GifCapture) 🏇 Gif capture app for macOS
+- [YoutubeDownloader](https://github.com/onmyway133/YoutubeDownloader) 🐧 Youtube downloader for macOS
+- [spectacle](https://github.com/eczarny/spectacle) Spectacle allows you to organize your windows without using a mouse
