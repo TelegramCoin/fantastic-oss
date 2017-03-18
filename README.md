@@ -26,6 +26,7 @@
 
 - Showcase https://electron.atom.io/userland/starred_apps
 - [N1](https://github.com/nylas/N1) 💌 An extensible desktop mail app built on the modern web. https://nylas.com/
+- [hyper](https://github.com/zeit/hyper) A terminal built on web technologies https://hyper.is
 
 # Node
 
