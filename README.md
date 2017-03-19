@@ -28,10 +28,8 @@
 - [N1](https://github.com/nylas/N1) 💌 An extensible desktop mail app built on the modern web. https://nylas.com/
 - [hyper](https://github.com/zeit/hyper) A terminal built on web technologies https://hyper.is
 - [atom](https://github.com/atom/atom) The hackable text editor :atom: https://atom.io
-
-# Node
-
-- [parse-server](https://github.com/ParsePlatform/parse-server) Parse-compatible API server module for Node/Express
+- [vscode](https://github.com/Microsoft/vscode) Visual Studio Code https://code.visualstudio.com
+- [kap](https://github.com/wulkano/kap) An open-source screen recorder built with web technology https://getkap.co
 
 # macOS
 
@@ -41,3 +39,7 @@
 - [spectacle](https://github.com/eczarny/spectacle) Spectacle allows you to organize your windows without using a mouse
 - [WWDC](https://github.com/insidegui/WWDC) The unofficial WWDC app for macOS
 - [Simulator](https://github.com/hyperoslo/Simulator) 📱 Navigate to your app folders quickly
+
+# Node
+
+- [parse-server](https://github.com/ParsePlatform/parse-server) Parse-compatible API server module for Node/Express
