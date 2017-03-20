@@ -30,6 +30,7 @@
 - [atom](https://github.com/atom/atom) The hackable text editor :atom: https://atom.io
 - [vscode](https://github.com/Microsoft/vscode) Visual Studio Code https://code.visualstudio.com
 - [kap](https://github.com/wulkano/kap) An open-source screen recorder built with web technology https://getkap.co
+- [Splashify](https://github.com/gilbitron/Splashify) Beautiful desktop wallpapers https://splashify.net
 
 # macOS
 
